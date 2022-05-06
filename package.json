@@ -2,9 +2,9 @@
   "name": "flutter-debugprint",
   "displayName": "Flutter debugPrint",
   "description": "Help insert and remove print(*) statement",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "publisher": "flutter-debugprint",
-  "repository": "https://github.com/Chagizac/flutter-print",
+  "repository": "https://github.com/fakenull/flutter-print",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.5.0"
