@@ -1,3 +1,11 @@
+배포 버전 패키징 후
+vsce package
+
+https://dev.azure.com/ vscode 용으로 업로드
+
+
+
+
 # Welcome to your first VS Code Extension
 
 ## What's in the folder
